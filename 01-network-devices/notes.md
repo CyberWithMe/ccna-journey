@@ -1,6 +1,6 @@
 
 # Day 1 — Network Devices
-📅 Date: DD/MM/YYYY
+📅 Date: 04/06/2026
 🎥 Video: [Jeremy's IT Lab - Title](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 ---
