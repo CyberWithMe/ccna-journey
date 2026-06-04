@@ -22,7 +22,7 @@ ccna-notes/
 
 Each folder contains:
 - `notes.md` — notes from the video lesson
-- `lab-notes.md` — Packet Tracer lab walkthrough
+- `lab-notes.md` — Packet Tracer lab walkthrough (if needed)
 
 ---
 
