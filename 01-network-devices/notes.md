@@ -41,6 +41,6 @@ A computer network is a digital telecommunication channel that allows nodes to s
 ---
 
 ## 🖥️ Lab Notes 
-Practised deploying the relevant network devices into the packet tracer as mentioned in jeremy's video. 
+Practised deploying the relevant network devices into the packet tracer as mentioned in jeremy's video. All in all, a pretty chill day 1 video. You will be walked through on how to set up your Anki to access the flashcards and also your cisco packet tracer to be able to do the labs.
 
 ---
