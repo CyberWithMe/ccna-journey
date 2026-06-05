@@ -5,7 +5,7 @@
 
 ---
 
-## 📝
+# 📝
 
 # What is an Ethernet?
     - Ethernet is a collection of network protocols/standards. 
@@ -46,9 +46,9 @@
     - ports that you will connect copper utp cables to. 
 
 
-## Cables
+# Cables
 
-# Copper UTP Cables (Unshielded Twisted Pair cables)
+## Copper UTP Cables (Unshielded Twisted Pair cables)
 
     - Copper UTP cable standards:
     | Speed | Common Name | IEEE Standard | Informal Name | Maximum Length |
@@ -116,16 +116,19 @@ Modern feature that allows devices to automatically detect which pins the device
         - 2 connectors on each end. 1 to transmit (Tx) data and 1 to receive (Rx) data.
         - Use seperate cables within to transmit and receive data.
 
-    **Structure of a fiber-optic cable**
+**Structure of a fiber-optic cable**
 ![Structure of a fiber-optic cable.](Images/structure-of-fiber-optic-cable.png)
+
 image courtesy of jeremy's it labs
 
-    **Multi-Mode fiber-optic cable**
+**Multi-Mode fiber-optic cable**
 ![multimode-fiber cable characteristics](Images/multimode-fiber.png)
+
 image courtesy of jeremy's it labs
 
-    **Single-Mode fiber-optic cable**
+**Single-Mode fiber-optic cable**
 ![singlemode-fiber cable characteristics](Images/singlemode-fiber.png)
+
 image courtesy of jeremy's it labs
 
 
