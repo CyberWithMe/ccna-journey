@@ -30,8 +30,8 @@ Each folder contains:
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Network Devices | 🔄 In Progress |
-| 02 | Interfaces & Cables | ⬜ Not started |
+| 01 | Network Devices | ✅ Done |
+| 02 | Interfaces & Cables | ✅ Done |
 | 03 | OSI & TCP/IP Model | ⬜ Not started |
 | 04 | Intro to Cisco IOS | ⬜ Not started |
 | 05 | Ethernet LAN Switching | ⬜ Not started |
@@ -50,7 +50,8 @@ Each folder contains:
 | Date | Topics Covered |
 |------|----------------|
 | 04/06/2026 | Started CCNA journey |
-| 04/06/2026 | Started #01 |
+| 04/06/2026 | Finished #01 |
+| 05/06/2026 | Finished #02 |
 
 ---
 
