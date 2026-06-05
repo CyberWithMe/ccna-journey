@@ -117,15 +117,15 @@ Modern feature that allows devices to automatically detect which pins the device
         - Use seperate cables within to transmit and receive data.
 
     **Structure of a fiber-optic cable**
-    ![Structure of a fiber-optic cable.](Images\structure-of-fiber-optic-cable.png)
+    ![Structure of a fiber-optic cable.](Images/structure-of-fiber-optic-cable.png)
     image courtesy of jeremy's it labs
 
     **Multi-Mode fiber-optic cable**
-    ![multimode-fiber cable characteristics](multimode-fiber.png)
+    ![multimode-fiber cable characteristics](Images/multimode-fiber.png)
     image courtesy of jeremy's it labs
 
     **Single-Mode fiber-optic cable**
-    ![singlemode-fiber cable characteristics](singlemode-fiber.png)
+    ![singlemode-fiber cable characteristics](Images/singlemode-fiber.png)
     image courtesy of jeremy's it labs
 
 
