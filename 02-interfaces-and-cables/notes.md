@@ -111,7 +111,7 @@ Modern feature that allows devices to automatically detect which pins the device
     | 10Gbps | Single Mode | 802.3ae | 10GBASE-ER | 30m |
 
     - Insert SFP (Small Form-Factor Pluggable) transceiver into ports.
-    - Fiber-optic cables are then connected into the SPF transceiver.
+    - Fiber-optic cables are then connected into the SFP transceiver.
         - Sends light over glass fiber instead of an electrical signal over copper wiring.
         - 2 connectors on each end. 1 to transmit (Tx) data and 1 to receive (Rx) data.
         - Use seperate cables within to transmit and receive data.
