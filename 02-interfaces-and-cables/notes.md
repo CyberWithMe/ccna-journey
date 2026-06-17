@@ -79,7 +79,7 @@
         - Switch receives (Rx) on pins 3 and 6. 
         - There are a total of 8 pins. 
     
-    **When transmitting data to between PC/Router/Firewall/Server for 10BASE-T and 100BASE-T**
+    **When transmitting data to switch between PC/Router/Firewall/Server for 10BASE-T and 100BASE-T**
         - Use a crossover cable. 
         - Pin 1 from one end will connect to pin 3 on the other end
         - Pin 2 from one end will connect to pin 6 on the other end
